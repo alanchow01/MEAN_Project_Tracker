@@ -1,7 +1,7 @@
 {
   "name": "my_mean_app",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "authors": [
     "Alan Chow"
   ],

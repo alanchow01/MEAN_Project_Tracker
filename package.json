@@ -2,13 +2,15 @@
   "name": "my_mean_app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alan Chow",
   "license": "ISC",
   "dependencies": {
+    "connect": "^3.5.0",
+    "ejs": "^2.5.2",
     "express": "^4.14.0",
     "gulp": "^3.9.1"
   }
