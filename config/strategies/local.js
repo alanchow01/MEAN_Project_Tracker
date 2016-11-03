@@ -19,7 +19,7 @@ module.exports = function() {
           return done(null, false, {message: 'Invalid password'});
         }
 
-        Return done(null, user);
+        return done(null, user);
       }
     );
   }));
